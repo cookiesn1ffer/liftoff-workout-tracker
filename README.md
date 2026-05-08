@@ -84,14 +84,20 @@ In Android Studio:
 
 ## App Screens
 
-| Screen | Description |
+| Screen | What you see |
 |---|---|
-| **Home** | XP bar, streak, weekly volume chart, muscle focus donut, recent workouts |
-| **Routines** | List of routines; create new; add exercises with search + muscle group filter |
-| **Workout** | Active session logger — sets/reps/weight, rest timer, live elapsed time |
-| **Progress** | 3 tabs: per-exercise charts, per-muscle-group volume charts, all PRs |
-| **Leaderboard** | Weekly/monthly/all-time volume with top workout rankings |
-| **Profile** | XP level, badges, stats, username edit |
+| **Onboarding** | Dark welcome screen with orange barbell icon → username entry ("What should we call you?") — shown once on first launch |
+| **Home** | Greeting with rank (e.g. "Hey, Cookie · Level 1 · Beginner"), XP progress bar, streak counter, Start Workout CTA, stats grid (Workouts / Volume / PRs), 7-day volume bar chart, recent workouts list |
+| **Routines** | Routine list with muscle group tags; tap a routine to view exercises; "+ New" to build one from scratch |
+| **Routine Builder** | Exercise list with numbered order + remove button; search bar across all 505 exercises; muscle group filter pills (All / Chest / Back / Shoulders / Biceps / Triceps…); tap "+" to add |
+| **Workout Logger** | Active workout header with live elapsed timer (mm:ss) and routine name badge; exercise name + muscle tag; set rows with REPS / KG inputs; rest timer quick-select (60s / 90s / 120s / 180s); Prev / Next Exercise navigation; dot progress indicator; confetti on PR |
+| **Progress** | 3 tabs — By Exercise (SVG line charts of max weight over time), By Muscle (per-muscle-group volume charts with unique colors), All PRs (full PR history table) |
+| **Leaderboard** | Weekly / Monthly / All-time tabs; volume rankings with simulated community entries and top workout callouts |
+| **Profile** | XP bar with rank level, total stats, 8 achievement badge grid (locked/unlocked), username edit |
+
+### Screenshots (running on Android emulator — Pixel 6, API 34)
+
+The app uses a dark `#0a0a0a` theme with orange (`#f97316`) accents throughout. All icons are custom SVG — no emoji anywhere. The launcher icon is a dark barbell on an orange circle, consistent with the in-app theme.
 
 ---
 
