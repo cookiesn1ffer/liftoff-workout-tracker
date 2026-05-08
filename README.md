@@ -1,3 +1,5 @@
+
+
 # LiftOff — Gamified Workout Tracker
 
 A mobile workout tracking app with a competitive twist. Built with React 18, pre-compiled JSX, and Capacitor for Android.
@@ -98,6 +100,25 @@ In Android Studio:
 ### Screenshots (running on Android emulator — Pixel 6, API 34)
 
 The app uses a dark `#0a0a0a` theme with orange (`#f97316`) accents throughout. All icons are custom SVG — no emoji anywhere. The launcher icon is a dark barbell on an orange circle, consistent with the in-app theme.
+
+<img width="360" height="800" alt="frame_001" src="https://github.com/user-attachments/assets/540bc179-4122-4fa9-b035-5bf166d820b4" />
+<img width="360" height="800" alt="frame_002" src="https://github.com/user-attachments/assets/6435fa20-c893-4899-89a7-acf55c013a92" />
+<img width="360" height="800" alt="frame_003" src="https://github.com/user-attachments/assets/c7d38d08-9502-414e-ae3e-e8056536dcaf" />
+<img width="360" height="800" alt="frame_004" src="https://github.com/user-attachments/assets/71cc06d7-8560-4bfb-9040-06e3312e84cb" />
+<img width="360" height="800" alt="frame_005" src="https://github.com/user-attachments/assets/54c7eaea-c687-46bb-b221-0b6474dff8db" />
+<img width="360" height="800" alt="frame_006" src="https://github.com/user-attachments/assets/b91fefd6-2e3f-46bf-9539-e6f673b18be5" />
+<img width="360" height="800" alt="frame_007" src="https://github.com/user-attachments/assets/93e33576-6edb-42ff-b1f3-ba5443b72514" />
+<img width="360" height="800" alt="frame_009" src="https://github.com/user-attachments/assets/51957994-6757-4d70-8536-1caa4d16eeb9" />
+<img width="360" height="800" alt="frame_010" src="https://github.com/user-attachments/assets/9af0f5cd-071e-4978-9cd7-f0719a357a61" />
+<img width="360" height="800" alt="frame_011" src="https://github.com/user-attachments/assets/a4219276-ff85-414c-a14d-7018da220e39" />
+<img width="360" height="800" alt="frame_012" src="https://github.com/user-attachments/assets/f3470ebf-931d-4cdc-a576-72fa9b41f4c1" />
+<img width="360" height="800" alt="frame_013" src="https://github.com/user-attachments/assets/f4b3adf1-083d-4f90-a507-bc7c3a7995ab" />
+<img width="360" height="800" alt="frame_014" src="https://github.com/user-attachments/assets/1a6834c0-556d-4f7e-ae81-ed96ae1167ec" />
+<img width="360" height="800" alt="frame_015" src="https://github.com/user-attachments/assets/652bdd78-c46c-4521-a694-e78ed8d17853" />
+<img width="360" height="800" alt="frame_017" src="https://github.com/user-attachments/assets/4bca79f8-9b07-44ca-a2b1-5c448c50ffde" />
+<img width="360" height="800" alt="frame_018" src="https://github.com/user-attachments/assets/300159af-a662-4a19-83a8-b8a897dba7ca" />
+<img width="360" height="800" alt="frame_019" src="https://github.com/user-attachments/assets/4dbfa64c-d89b-41eb-8c60-573f2ddde67e" />
+<img width="360" height="800" alt="frame_020" src="https://github.com/user-attachments/assets/cc6dda36-e9a9-4037-80aa-e04a384fe8d5" />
 
 ---
 
