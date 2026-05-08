@@ -1,0 +1,8 @@
+{
+  "appId": "com.liftoff.workouttracker",
+  "appName": "LiftOff",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LiftOff</string>
+    <string name="title_activity_main">LiftOff</string>
+    <string name="package_name">com.liftoff.workouttracker</string>
+    <string name="custom_url_scheme">com.liftoff.workouttracker</string>
+</resources>
